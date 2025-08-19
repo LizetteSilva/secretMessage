@@ -1,21 +1,25 @@
-# Caché de Python
+# Python cache files
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
 
-# Entornos virtuales
+# Virtual environments
 venv/
 .venv/
+env/
 *.env
 
-# Archivos VSCode
+# IDE configs
 .vscode/
+.idea/
 
-# PyInstaller builds
+# PyInstaller outputs
 dist/
 build/
 *.spec
 *.exe
 
-# Archivos de sistema
+# System files
 .DS_Store
 Thumbs.db
+>>>>>>> 68b56da (Add .gitignore with standard Python settings)
