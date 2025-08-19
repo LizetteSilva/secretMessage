@@ -15,10 +15,10 @@ Btw, I'm also a digital artist, so the cute dog is a drawing that I made 💖 (y
 ## 🚀 How to use it
 1. clone this repo
    ```bash
-   git clone https://github.com/lizettesilva/secretMessage.git```
+   git clone https://github.com/lizettesilva/secretMessage.git
 2. run the app with python 
     ```bash
-    python main.py```
+    python main.py
 3. you can test the passwords: "friend1", "friend2" or "friend3"
 
 
