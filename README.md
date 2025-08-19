@@ -18,7 +18,7 @@ Btw, I'm also a digital artist, so the cute dog is a drawing that I made 💖 (y
    git clone https://github.com/lizettesilva/secretMessage.git
 2. run the app with python 
     ```bash
-    python main.py
+    python secretMessage.py
 3. you can test the passwords: "friend1", "friend2" or "friend3"
 
 
